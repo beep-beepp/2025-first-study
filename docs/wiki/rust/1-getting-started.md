@@ -1,6 +1,8 @@
 ---
 title: "1. Getting Started"
+parent: "Rust"
 permalink: /rust/getting-started
+nav_order: 1
 ---
 
 <details>
